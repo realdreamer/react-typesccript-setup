@@ -1,0 +1,24 @@
+{
+  "name": "react-typescript-setup",
+  "version": "1.0.0",
+  "description": "React application setup with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realdreamer/react-typescript-setup.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "react-typescript"
+  ],
+  "author": "realdreamer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realdreamer/react-typescript-setup/issues"
+  },
+  "homepage": "https://github.com/realdreamer/react-typescript-setup#readme"
+}
